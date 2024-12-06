@@ -26,7 +26,7 @@
     *   Clone your forked repository to your local machine using the following command:
 
         ```
-        git clone https://github.com/your-username/javaConsole_ClassDaigram.git
+        git clone https://github.com/your-username/ClassDiagram-javaConsole.git
         ```
         
         Replace `your-username` with your GitHub username and `repository` with the name of the repository.
@@ -35,7 +35,7 @@
     *   Move into the cloned directory:
 
         ```
-        cd javaConsole_ClassDaigram
+        cd ClassDiagram-javaConsole
         ```
         
     *   Create a new branch for your contribution:
